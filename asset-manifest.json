@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/spotify/static/css/main.0d77bba8.css",
+    "main.js": "/spotify/static/js/main.eb8e5056.js",
+    "static/media/paras.jpg": "/spotify/static/media/paras.b598548c26b33c2cfcec.jpg",
+    "static/media/like.png": "/spotify/static/media/like.4051e5f8e18b05da446e.png",
+    "static/media/Spotify_Logo_RGB_White.png": "/spotify/static/media/Spotify_Logo_RGB_White.f48fb565509bf23854a8.png",
+    "static/media/popRising.jpeg": "/spotify/static/media/popRising.3ab0e4e250cf2f06482d.jpeg",
+    "static/media/blackpink2.jpeg": "/spotify/static/media/blackpink2.c37b316762dde77ac3d2.jpeg",
+    "static/media/allOut.jpeg": "/spotify/static/media/allOut.512a9fbc26c50101e462.jpeg",
+    "static/media/chilHits.jpeg": "/spotify/static/media/chilHits.a1e75f5d218663184bdf.jpeg",
+    "static/media/mood.jpeg": "/spotify/static/media/mood.9b6ad7f1580e27f40ce7.jpeg",
+    "static/media/selena.jpeg": "/spotify/static/media/selena.a053c2d5a79e643e0e45.jpeg",
+    "static/media/Got7MIx.jpeg": "/spotify/static/media/Got7MIx.9a3539651397adf81095.jpeg",
+    "static/media/daily2.jpeg": "/spotify/static/media/daily2.4ad4e767620b78b18bb6.jpeg",
+    "static/media/megaHits.jpeg": "/spotify/static/media/megaHits.f0173fbccdb6b095fb50.jpeg",
+    "static/media/bts.jpeg": "/spotify/static/media/bts.14cee700dd584a1746d6.jpeg",
+    "static/media/daily3.jpeg": "/spotify/static/media/daily3.24f43aa3c479631c1955.jpeg",
+    "static/media/daily5.jpeg": "/spotify/static/media/daily5.759de7f174b421e9a752.jpeg",
+    "static/media/daily4.jpeg": "/spotify/static/media/daily4.3538478ab2d703c7babf.jpeg",
+    "static/media/daily1.jpeg": "/spotify/static/media/daily1.6eca2c270d1feb3bfecc.jpeg",
+    "index.html": "/spotify/index.html",
+    "main.0d77bba8.css.map": "/spotify/static/css/main.0d77bba8.css.map",
+    "main.eb8e5056.js.map": "/spotify/static/js/main.eb8e5056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d77bba8.css",
+    "static/js/main.eb8e5056.js"
+  ]
+}
